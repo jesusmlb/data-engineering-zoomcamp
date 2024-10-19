@@ -11,7 +11,7 @@ Table of Contents
 [Official documentation](https://docs.getdbt.com/tutorial/setting-up)
 
 ## Create a BigQuery service account 
-In order to connect we need the service account JSON file generated from bigquery:
+In order to connect we need dthe service account JSON file generated from bigquery:
 1. Open the [BigQuery credential wizard](https://console.cloud.google.com/apis/credentials/wizard) to create a service account in your taxi project
 
 <table><tr>
